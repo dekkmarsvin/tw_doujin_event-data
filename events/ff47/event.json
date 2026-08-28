@@ -1,0 +1,44 @@
+{
+  "schema": "event-definition/3",
+  "id": "ff47",
+  "name": "Fancy Frontier 47",
+  "dateRangeLabel": "8.21–23",
+  "dataUpdatedAt": "2026-08-21T00:00:00.000+08:00",
+  "eventEndsAt": "2026-08-23T23:59:59.999+08:00",
+  "mapTemplate": "FF47",
+  "areaMode": "single",
+  "days": [
+    { "id": 1, "label": "DAY 1", "dateLabel": "8月21日・五" },
+    { "id": 2, "label": "DAY 2", "dateLabel": "8月22日・六" },
+    { "id": 3, "label": "DAY 3", "dateLabel": "8月23日・日" }
+  ],
+  "areas": [
+    { "id": "ALL", "label": "全館", "shortLabel": "全部" },
+    { "id": "A", "label": "A–K 區", "shortLabel": "A–K" },
+    { "id": "B", "label": "L–W 區", "shortLabel": "L–W" }
+  ],
+  "organizerAssignments": [
+    { "organizerId": "frontier-anime", "role": "lead" }
+  ],
+  "categoryCatalog": {
+    "organizerId": "frontier-anime",
+    "id": "circle-topics",
+    "revision": "2026-08-25"
+  },
+  "venueAssignments": [
+    {
+      "venueId": "taipei-expo-park-zhengyan-hall",
+      "venueSpaceId": "zhengyan-exhibition-area",
+      "areaIds": ["ALL", "A", "B"]
+    }
+  ],
+  "officialData": {
+    "adapter": "f2-wordpress-booth-table/1",
+    "eventUrl": "https://www.f-2.com.tw/ff47%E4%B8%89%E6%97%A5%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F%E5%85%AC%E4%BD%88/",
+    "boothListUrls": {
+      "1": "https://www.f-2.com.tw/%E3%80%90ff47%E3%80%91%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F/",
+      "2": "https://www.f-2.com.tw/%E3%80%90ff47%E3%80%91%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F/",
+      "3": "https://www.f-2.com.tw/%E3%80%90ff47%E3%80%91%E7%AC%AC%E4%B8%89%E5%A4%A9%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F/"
+    }
+  }
+}

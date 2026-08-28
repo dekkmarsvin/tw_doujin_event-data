@@ -1,0 +1,31 @@
+# FF47
+
+主辦：Fancy Frontier 47
+主辦活動頁：https://www.f-2.com.tw/ff47%E4%B8%89%E6%97%A5%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F%E5%85%AC%E4%BD%88/
+
+本資料夾的內容不由儲存庫根目錄的條款概括授權。主辦提供的事實與用字依各自來源與適用法律使用。
+
+## event.json
+
+本站產出的欄位：schema 版本、adapter 識別碼、正規化時間戳、區域識別碼、主辦角色、分類選擇與場館空間 assignment。
+主辦、分類目錄、場館與場館空間的事實由 reference-selection.json 指向 references/ 的既有記錄解析。
+
+## reference-selection.json
+
+主辦與分類來源：https://www.f-2.com.tw/ 、https://www.f-2.com.tw/%E7%A4%BE%E5%9C%98%E4%B8%BB%E9%A1%8C%E9%A1%9E%E5%88%A5/
+場館來源：https://www.expopark.taipei/FieldInfo_Detail.aspx?n=205&s=1
+選定 frontier-anime 主辦、其 circle-topics@2026-08-25 分類目錄、taipei-expo-park-zhengyan-hall 與 zhengyan-exhibition-area。
+
+## official-booths.json
+
+第一天：https://www.f-2.com.tw/%E3%80%90ff47%E3%80%91%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F/
+第二天：https://www.f-2.com.tw/%E3%80%90ff47%E3%80%91%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F/
+第三天：https://www.f-2.com.tw/%E3%80%90ff47%E3%80%91%E7%AC%AC%E4%B8%89%E5%A4%A9%E6%94%A4%E4%BD%8D%E7%B7%A8%E8%99%9F/
+轉換：HTML 表格列正規化為 { day, code, name }，保留來源 URL 與抓取 metadata。表格缺失、非 200 回應與列數不合理時 fail closed。
+不併入社群工作簿欄位。
+
+## map.json
+
+來源產物：dekkmarsvin/tw_doujin_event 的地圖 authoring 匯出。
+轉換：記錄正規化攤位矩形、結構地標與無障礙標示；不嵌入或再散布主辦原始配置圖。
+驗證：通過該活動的排、格位、柱位與出入口檢查後才採用。

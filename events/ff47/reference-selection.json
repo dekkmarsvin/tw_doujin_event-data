@@ -1,0 +1,28 @@
+{
+  "schema": "reference-selection/1",
+  "eventId": "ff47",
+  "organizers": [
+    {
+      "id": "frontier-anime",
+      "path": "references/organizers/frontier-anime.json"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "circle-topics",
+    "organizerId": "frontier-anime",
+    "revision": "2026-08-25",
+    "path": "references/category-catalogs/frontier-anime/circle-topics/2026-08-25.json"
+  },
+  "venues": [
+    {
+      "id": "taipei-expo-park-zhengyan-hall",
+      "path": "references/venues/taipei-expo-park-zhengyan-hall.json",
+      "spaces": [
+        {
+          "id": "zhengyan-exhibition-area",
+          "path": "references/venue-spaces/zhengyan-exhibition-area.json"
+        }
+      ]
+    }
+  ]
+}

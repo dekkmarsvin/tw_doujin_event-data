@@ -1,0 +1,18 @@
+{
+  "schema": "organizer/1",
+  "id": "frontier-anime",
+  "name": "開拓動漫事業有限公司",
+  "officialUrl": "https://www.f-2.com.tw/",
+  "sources": [
+    {
+      "id": "frontier-home",
+      "kind": "organizer-official",
+      "url": "https://www.f-2.com.tw/",
+      "retrievedAt": "2026-08-25T03:43:00Z"
+    }
+  ],
+  "provenance": {
+    "/name": ["frontier-home"],
+    "/officialUrl": ["frontier-home"]
+  }
+}

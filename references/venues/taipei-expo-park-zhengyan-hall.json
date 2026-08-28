@@ -1,0 +1,18 @@
+{
+  "schema": "venue/1",
+  "id": "taipei-expo-park-zhengyan-hall",
+  "name": "花博公園爭艷館",
+  "officialUrl": "https://www.expopark.taipei/FieldInfo_Detail.aspx?n=205&s=1",
+  "sources": [
+    {
+      "id": "expo-zhengyan-hall",
+      "kind": "venue-official",
+      "url": "https://www.expopark.taipei/FieldInfo_Detail.aspx?n=205&s=1",
+      "retrievedAt": "2026-08-25T03:43:00Z"
+    }
+  ],
+  "provenance": {
+    "/name": ["expo-zhengyan-hall"],
+    "/officialUrl": ["expo-zhengyan-hall"]
+  }
+}
