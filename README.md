@@ -25,8 +25,11 @@ events/<eventId>/  單一活動的定義、官方攤位、地圖與 reference �
 
 ```sh
 node scripts/check.mjs
+node --test scripts/check.test.mjs
 ```
 
 這道 gate 只檢查 JSON 可解析、路徑落在 `references/` 與 `events/<eventId>/`、沒有二進位位元組，以及每個活動資料夾都有 `NOTICE`。完整 schema、reference selection 與 SHA-256 authority 在程式 repo 的 pin pull request。
+
+活動保留 `event.json`、`official-booths.json`、`reference-selection.json` 與 `NOTICE`。地圖使用 `map.json`，或 `map-manifest.json` 搭配 `maps/<dayId>/<venueSpaceId>.json`；兩種形式都沿用程式 repo 的載入與完整驗證。新發布可附 `circle-identity-groups.json`，既有活動無此檔案仍可通過。
 
 `main` 只接受經 pull request 且通過 `data / check` 的變更。

@@ -21,15 +21,20 @@ const META_FILES = new Set([
   ".github/CODEOWNERS",
   ".github/workflows/validate.yml",
   "scripts/check.mjs",
+  "scripts/check.test.mjs",
 ]);
 
 const EVENT_ID = /^[a-z0-9][a-z0-9-]*$/;
 const EVENT_JSON_FILES = new Set([
   "event.json",
   "official-booths.json",
+  "circle-identity-groups.json",
   "map.json",
+  "map-manifest.json",
   "reference-selection.json",
 ]);
+const REQUIRED_EVENT_FILES = ["event.json", "official-booths.json", "reference-selection.json", "NOTICE"];
+const SCOPED_MAP_PATH = /^maps\/[a-z0-9][a-z0-9-]*\/[a-z0-9][a-z0-9-]*\.json$/;
 const EVENT_NOTICE = "NOTICE";
 const REFERENCE_PATH = /^references\/(?:[A-Za-z0-9_-]+\/)*[A-Za-z0-9_-]+(?:\.[A-Za-z0-9_-]+)*\.json$/;
 
@@ -83,13 +88,13 @@ for (const relativePath of files) {
 
   if (isEvent) {
     const [, eventId, ...rest] = segments;
-    if (!EVENT_ID.test(eventId ?? "") || rest.length !== 1) {
-      fail(relativePath, "must be events/<eventId>/<file>.");
+    if (!EVENT_ID.test(eventId ?? "")) {
+      fail(relativePath, "must use a valid events/<eventId>/ directory.");
       continue;
     }
-    const [name] = rest;
-    if (!EVENT_JSON_FILES.has(name) && name !== EVENT_NOTICE) {
-      fail(relativePath, `is not an allowed event file. Allowed: ${[...EVENT_JSON_FILES, EVENT_NOTICE].join(", ")}.`);
+    const name = rest.join("/");
+    if (!EVENT_JSON_FILES.has(name) && name !== EVENT_NOTICE && !SCOPED_MAP_PATH.test(name)) {
+      fail(relativePath, `is not an allowed event file. Allowed: ${[...EVENT_JSON_FILES, EVENT_NOTICE].join(", ")}, maps/<dayId>/<venueSpaceId>.json.`);
       continue;
     }
     if (!eventFolders.has(eventId)) eventFolders.set(eventId, new Set());
@@ -116,9 +121,14 @@ for (const relativePath of files) {
 }
 
 for (const [eventId, names] of [...eventFolders].sort()) {
-  for (const required of [...EVENT_JSON_FILES, EVENT_NOTICE]) {
+  for (const required of REQUIRED_EVENT_FILES) {
     if (!names.has(required)) fail(`events/${eventId}`, `is missing ${required}.`);
   }
+  const hasManifest = names.has("map-manifest.json");
+  const hasScopedMap = [...names].some((name) => SCOPED_MAP_PATH.test(name));
+  if (!hasManifest && !names.has("map.json")) fail(`events/${eventId}`, "is missing map.json or map-manifest.json.");
+  if (hasScopedMap && !hasManifest) fail(`events/${eventId}`, "scoped maps require map-manifest.json.");
+  if (hasManifest && !hasScopedMap) fail(`events/${eventId}`, "map-manifest.json requires scoped map files.");
 }
 
 if (eventFolders.size === 0) failures.push("events/: the repository has no event folder.");
