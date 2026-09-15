@@ -1,0 +1,19 @@
+{
+  "schema": "venue-space/1",
+  "id": "venue-space-677b4283-d392-4b83-9d38-5aa81e2df511",
+  "venueId": "venue-c2a522f0-e534-4a91-ba1d-b347c112e092",
+  "name": "1F 開放式場地",
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "venue-official",
+      "url": "https://www.sanchong.ntpc.gov.tw/home.jsp?id=03871f85bbdc10c9&act=be4f48068b2b0031&dataserno=682f2fe2ab86c8860449dae4b06ffb14",
+      "retrievedAt": "2026-09-15T00:54:43.063Z"
+    }
+  ],
+  "provenance": {
+    "/name": [
+      "official-source"
+    ]
+  }
+}

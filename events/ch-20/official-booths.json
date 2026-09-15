@@ -1,0 +1,1233 @@
+{
+  "schemaVersion": 1,
+  "days": [
+    {
+      "day": "1",
+      "url": "https://ch.gjs.tw/about.html",
+      "booths": [
+        {
+          "codes": [
+            "A01",
+            "A02"
+          ],
+          "name": "仙界大濕快樂攤",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A03",
+            "A04"
+          ],
+          "name": "下空少女",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A05",
+            "A06"
+          ],
+          "name": "壞孤兒",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A07",
+            "A08"
+          ],
+          "name": "日初翱祥-陌千",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A09"
+          ],
+          "name": "LACC-請問有可以吃的黃藍嗎",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A10"
+          ],
+          "name": "奇魚果大王",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A11"
+          ],
+          "name": "應許之地",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A12"
+          ],
+          "name": "祥初撿到鍛造石〖4〗",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A13",
+            "A14"
+          ],
+          "name": "祥初墓地鈴蘭",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A15",
+            "A16"
+          ],
+          "name": "藍黃十七度",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A17",
+            "A18"
+          ],
+          "name": "KARAS押形",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B01"
+          ],
+          "name": "YuriSex 百合單細胞",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B02"
+          ],
+          "name": "七味雜陳",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B03"
+          ],
+          "name": "川貝蘋果派",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B04"
+          ],
+          "name": "非黑即白",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B05"
+          ],
+          "name": "TMPB Project",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B06"
+          ],
+          "name": "期間限定",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B07",
+            "B08"
+          ],
+          "name": "JELDA",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B09"
+          ],
+          "name": "犬出沒注意",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B10"
+          ],
+          "name": "金呂",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B11"
+          ],
+          "name": "牛乃與記錄者們",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B12"
+          ],
+          "name": "夜行飛船",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B13"
+          ],
+          "name": "三視圖",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B14"
+          ],
+          "name": "午前2時。",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B15",
+            "B16"
+          ],
+          "name": "艾",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B17"
+          ],
+          "name": "一窩女同汪汪叫",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B18"
+          ],
+          "name": "發芽的沙發馬鈴薯",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B19"
+          ],
+          "name": "燈無殖物園",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B20"
+          ],
+          "name": "喃澀",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B21"
+          ],
+          "name": "角角吉診室",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B22"
+          ],
+          "name": "包伯尼幼兒園",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B23"
+          ],
+          "name": "洛洛早餐店",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B24"
+          ],
+          "name": "日安同學",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B25"
+          ],
+          "name": "塗鴉與爬格子的星河小築",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B26"
+          ],
+          "name": "Be Somewhere",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B27"
+          ],
+          "name": "米家果園",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B28"
+          ],
+          "name": "阿靡緹柚潔",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B29"
+          ],
+          "name": "邪惡軸心魔王",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B30"
+          ],
+          "name": "鳳梨酥沒蛋黃",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C01"
+          ],
+          "name": "蘿體西洋劍",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C02"
+          ],
+          "name": "貓專用牛乳",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C03"
+          ],
+          "name": "台灣百合漫畫研究",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C04"
+          ],
+          "name": "芒果汁加珍珠",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C05"
+          ],
+          "name": "布丁杯★",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C06"
+          ],
+          "name": "粉紅泡泡小宇宙★",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C07"
+          ],
+          "name": "甜甜圈王國",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C08"
+          ],
+          "name": "Sailor b-612",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C09"
+          ],
+          "name": "攤主是被隔壁逼來的",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C10"
+          ],
+          "name": "攤主是從二十年前穿越來的",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C11"
+          ],
+          "name": "魔法少女ノ魔法焼酒",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C12"
+          ],
+          "name": "來世想當水母",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C13"
+          ],
+          "name": "不 要 激 動",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C14"
+          ],
+          "name": "西安事變",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C15"
+          ],
+          "name": "星星魚乾",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C16"
+          ],
+          "name": "狐狸與帽子風琴手",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C17"
+          ],
+          "name": "葉荒",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C18"
+          ],
+          "name": "或許是因為過於沉重不幸追撞弦卷集團快樂!幸運!微笑!耶!高級車",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C19"
+          ],
+          "name": "CHU2大人最後的肉乾保護協會",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C20"
+          ],
+          "name": "腰痛黃瓜",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C21",
+            "C22"
+          ],
+          "name": "葫蘆夏天hwulusummer",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C23"
+          ],
+          "name": "紅藍有同居 我說了算",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C24"
+          ],
+          "name": "內向的吸血鬼",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C25"
+          ],
+          "name": "我看世嘉不懂賣馬畫2.0",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C26"
+          ],
+          "name": "梁刑警電流急摳",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C27"
+          ],
+          "name": "Derletzte Art",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C28"
+          ],
+          "name": "觀葉植物的研究室",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C29"
+          ],
+          "name": "516號牢房",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C30"
+          ],
+          "name": "思想研究所情感部",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D01",
+            "D02"
+          ],
+          "name": "Jump Animals",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D03",
+            "D04"
+          ],
+          "name": "紙容你口不容你手",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D05"
+          ],
+          "name": "一大7早畫雙A",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D06",
+            "D07"
+          ],
+          "name": "在學女同追著我跑",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D08"
+          ],
+          "name": "好米味",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D09"
+          ],
+          "name": "快樂罌粟花自耕農會",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D10"
+          ],
+          "name": "阿農Anon",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D11"
+          ],
+          "name": "哨女",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D12"
+          ],
+          "name": "勝利者的早餐",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D13"
+          ],
+          "name": "工坊•夏至千里",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D14"
+          ],
+          "name": "百元肉肉",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D15",
+            "D16"
+          ],
+          "name": "火貓堡",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D17"
+          ],
+          "name": "塔邦棒棒",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D18"
+          ],
+          "name": "企鵝PIEN",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D19"
+          ],
+          "name": "生物四人甲子園",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D20"
+          ],
+          "name": "すしヤ!",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D21"
+          ],
+          "name": "多多",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D22"
+          ],
+          "name": "酒鬼百合結婚事務所",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D23"
+          ],
+          "name": "百合旅行企劃部",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D24"
+          ],
+          "name": "入浴前後一小時請勿飲酒 by 長鏡頭",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D25"
+          ],
+          "name": "錯落交織 Interweave",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D26"
+          ],
+          "name": "不安定星系",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D27",
+            "D28"
+          ],
+          "name": "台北人",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E01",
+            "E02"
+          ],
+          "name": "陽台沒午餐",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E03",
+            "E04"
+          ],
+          "name": "小花",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E05",
+            "E06"
+          ],
+          "name": "歐油希歡樂產業",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E07"
+          ],
+          "name": "你罹患了迴天症候群",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E08"
+          ],
+          "name": "落葉堆裡的翻車魚",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E09"
+          ],
+          "name": "果物一途",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E10"
+          ],
+          "name": "Polaris",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E11"
+          ],
+          "name": "瘋貓食堂",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E12"
+          ],
+          "name": "西宿舍洗衣間",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E13"
+          ],
+          "name": "INSIDE LAB",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E14"
+          ],
+          "name": "いろはに甘い節分",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E15"
+          ],
+          "name": "和牛吃到飽",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E16"
+          ],
+          "name": "被窩ZZ",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E17"
+          ],
+          "name": "白三葉草自耕農",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E18"
+          ],
+          "name": "絕讚發霉中",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E19",
+            "E20"
+          ],
+          "name": "百合車行",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E21"
+          ],
+          "name": "烏烏烏大維",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E22"
+          ],
+          "name": "小菊小花園",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E23",
+            "E24"
+          ],
+          "name": "木子的百合花園",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E25"
+          ],
+          "name": "什麼都寫一點的菟子",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E26"
+          ],
+          "name": "我推會在演唱會上親親",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "E27",
+            "E28"
+          ],
+          "name": "Mo子宅屋",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F01"
+          ],
+          "name": "新中和福祉中心",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F02"
+          ],
+          "name": "企鵝冰屋",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F03"
+          ],
+          "name": "夜明曉更前",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F04"
+          ],
+          "name": "口口鳥工作室",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F05"
+          ],
+          "name": "非瑜不能吃",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F06"
+          ],
+          "name": "草莓貝果的貝果工坊",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F07"
+          ],
+          "name": "幻想布萊梅",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F08"
+          ],
+          "name": "Kakela*Hane",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F09",
+            "F10"
+          ],
+          "name": "人工降雨",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F11"
+          ],
+          "name": "勝利早餐店",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F12"
+          ],
+          "name": "幻想失控",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F13"
+          ],
+          "name": "氧寶寶的女同俱樂部",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F14"
+          ],
+          "name": "湖底章魚音樂盒",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F15"
+          ],
+          "name": "裝披風的衣櫃",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F16"
+          ],
+          "name": "阿里阿巴巴阿千千",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F17"
+          ],
+          "name": "No Yuri, No Life.",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F18"
+          ],
+          "name": "玥炭繪館",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F19",
+            "F20"
+          ],
+          "name": "詠櫻堂",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F21"
+          ],
+          "name": "七色蘑菇燴飯",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F22"
+          ],
+          "name": "A.Zu.Na - cra park!",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F23",
+            "F24"
+          ],
+          "name": "鯊魚腳速食",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F25"
+          ],
+          "name": "畫冥",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F26"
+          ],
+          "name": "しろはす",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F27"
+          ],
+          "name": "飛行熊咪貓商會",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F28"
+          ],
+          "name": "兔子蛋糕事務所",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F29"
+          ],
+          "name": "有這樣的喜樂蒂你幾點回家?",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "F30"
+          ],
+          "name": "大金毛很可愛",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G01"
+          ],
+          "name": "美栗",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G02"
+          ],
+          "name": "Majuchime",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G03"
+          ],
+          "name": "脖圍脖",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G04"
+          ],
+          "name": "謝罪勞動",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G05",
+            "G06"
+          ],
+          "name": "龍師傅雞排攤",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G07"
+          ],
+          "name": "D呱吃起來真爾新",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G08"
+          ],
+          "name": "Ray的饗食天堂",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G09",
+            "G10"
+          ],
+          "name": "有百合人生就不是灰的",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G11",
+            "G12"
+          ],
+          "name": "青雨アメ",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G13"
+          ],
+          "name": "ゆりりさいくらー",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G14"
+          ],
+          "name": "日照不足",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G15"
+          ],
+          "name": "魚燒字要多",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G16"
+          ],
+          "name": "75吋鴿子捲餅不要醃漬物",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G17"
+          ],
+          "name": "LQ7 - The Last Dance",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G18"
+          ],
+          "name": "秋季限定香蕉水蜜桃聖代",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G19"
+          ],
+          "name": "激凍冰的紅茶",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G20"
+          ],
+          "name": "鴨子塗鴉",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G21"
+          ],
+          "name": "要樂奈不要已讀我",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G22"
+          ],
+          "name": "喵祥卉贏喔",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G23"
+          ],
+          "name": "八雲島",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G24"
+          ],
+          "name": "老P股",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G25"
+          ],
+          "name": "狹間閣",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G26"
+          ],
+          "name": "害羞人Saya",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G27",
+            "G28"
+          ],
+          "name": "廢柴小R",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G29"
+          ],
+          "name": "黑黑黑",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "G30"
+          ],
+          "name": "夜触人身",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "S01",
+            "S02"
+          ],
+          "name": "PURE/南方純",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "S03",
+            "S04"
+          ],
+          "name": "你也是舞台少女?",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "S05",
+            "S06"
+          ],
+          "name": "しおらーめん",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "S07",
+            "S08"
+          ],
+          "name": "そそう支部",
+          "areaId": "ALL"
+        }
+      ]
+    }
+  ]
+}
