@@ -1,5 +1,5 @@
 {
-  "schema": "circle-identity-groups/1",
+  "schema": "circle-identity-groups/2",
   "eventId": "ch-20",
   "groups": [
     {
@@ -884,5 +884,6 @@
         "1:S08"
       ]
     }
-  ]
+  ],
+  "transitions": []
 }
