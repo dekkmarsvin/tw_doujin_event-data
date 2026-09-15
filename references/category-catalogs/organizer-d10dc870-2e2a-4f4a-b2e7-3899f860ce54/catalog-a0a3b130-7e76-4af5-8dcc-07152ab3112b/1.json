@@ -1,0 +1,51 @@
+{
+  "schema": "category-catalog/1",
+  "id": "catalog-a0a3b130-7e76-4af5-8dcc-07152ab3112b",
+  "organizerId": "organizer-d10dc870-2e2a-4f4a-b2e7-3899f860ce54",
+  "revision": "1",
+  "categories": [
+    {
+      "id": "category-1",
+      "label": "百合向-原創作品",
+      "description": "描寫女性間友誼或愛慕關係的原創作品。"
+    },
+    {
+      "id": "category-2",
+      "label": "百合向-二創作品",
+      "description": "描寫女性間友誼或愛慕關係的二次衍生創作。"
+    },
+    {
+      "id": "category-3",
+      "label": "百合向-其他作品",
+      "description": "前兩類以外的百合作品；包含真人角色衍生者須清楚標示。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "organizer-official",
+      "url": "https://ch.gjs.tw/about.html",
+      "retrievedAt": "2026-09-15T00:26:46.302Z"
+    }
+  ],
+  "provenance": {
+    "/categories/0/label": [
+      "official-source"
+    ],
+    "/categories/0/description": [
+      "official-source"
+    ],
+    "/categories/1/label": [
+      "official-source"
+    ],
+    "/categories/1/description": [
+      "official-source"
+    ],
+    "/categories/2/label": [
+      "official-source"
+    ],
+    "/categories/2/description": [
+      "official-source"
+    ]
+  }
+}

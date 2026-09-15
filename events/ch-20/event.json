@@ -1,0 +1,51 @@
+{
+  "schema": "event-definition/3",
+  "id": "ch-20",
+  "name": "Comic Horizon 20",
+  "dateRangeLabel": "2026-10-09",
+  "dataUpdatedAt": "2026-09-15T01:19:24.247Z",
+  "eventEndsAt": "2026-10-09T23:59:59+08:00",
+  "mapTemplate": "TAIWAN_GENERIC_V1",
+  "areaMode": "single",
+  "days": [
+    {
+      "id": "1",
+      "label": "第 1 日",
+      "dateLabel": "2026-10-09"
+    }
+  ],
+  "areas": [
+    {
+      "id": "ALL",
+      "label": "ALL",
+      "shortLabel": "ALL"
+    }
+  ],
+  "organizerAssignments": [
+    {
+      "organizerId": "organizer-d10dc870-2e2a-4f4a-b2e7-3899f860ce54",
+      "role": "lead"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-a0a3b130-7e76-4af5-8dcc-07152ab3112b",
+    "organizerId": "organizer-d10dc870-2e2a-4f4a-b2e7-3899f860ce54",
+    "revision": "1"
+  },
+  "venueAssignments": [
+    {
+      "venueId": "venue-c2a522f0-e534-4a91-ba1d-b347c112e092",
+      "venueSpaceId": "venue-space-677b4283-d392-4b83-9d38-5aa81e2df511",
+      "areaIds": [
+        "ALL"
+      ]
+    }
+  ],
+  "officialData": {
+    "adapter": "organizer-import/1",
+    "eventUrl": "https://ch.gjs.tw/about.html",
+    "boothListUrls": {
+      "1": "https://ch.gjs.tw/about.html"
+    }
+  }
+}
