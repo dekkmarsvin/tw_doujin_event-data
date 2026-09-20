@@ -1,0 +1,22 @@
+{
+  "schema": "organizer/1",
+  "id": "organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45",
+  "name": "FancyFrontier開拓",
+  "officialUrl": "https://www.f-2.com.tw/%e7%a4%be%e5%9c%98%e4%b8%bb%e9%a1%8c%e9%a1%9e%e5%88%a5/",
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "organizer-official",
+      "url": "https://www.f-2.com.tw/%e7%a4%be%e5%9c%98%e4%b8%bb%e9%a1%8c%e9%a1%9e%e5%88%a5/",
+      "retrievedAt": "2026-09-20T09:35:45.917Z"
+    }
+  ],
+  "provenance": {
+    "/name": [
+      "official-source"
+    ],
+    "/officialUrl": [
+      "official-source"
+    ]
+  }
+}

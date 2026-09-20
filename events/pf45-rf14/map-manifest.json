@@ -1,0 +1,16 @@
+{
+  "schema": "event-map-manifest/1",
+  "eventId": "pf45-rf14",
+  "maps": [
+    {
+      "periodKey": "1",
+      "venueSpaceId": "zhengyan-exhibition-area",
+      "path": "maps/1/zhengyan-exhibition-area.json"
+    },
+    {
+      "periodKey": "2",
+      "venueSpaceId": "zhengyan-exhibition-area",
+      "path": "maps/2/zhengyan-exhibition-area.json"
+    }
+  ]
+}

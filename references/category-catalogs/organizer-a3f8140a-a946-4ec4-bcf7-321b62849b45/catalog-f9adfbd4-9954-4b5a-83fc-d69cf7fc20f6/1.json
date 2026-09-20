@@ -1,0 +1,116 @@
+{
+  "schema": "category-catalog/1",
+  "id": "catalog-f9adfbd4-9954-4b5a-83fc-d69cf7fc20f6",
+  "organizerId": "organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45",
+  "revision": "1",
+  "categories": [
+    {
+      "id": "category-1",
+      "label": "原創作品"
+    },
+    {
+      "id": "category-2",
+      "label": "總合動漫畫"
+    },
+    {
+      "id": "category-3",
+      "label": "Vtuber"
+    },
+    {
+      "id": "category-4",
+      "label": "總合遊戲"
+    },
+    {
+      "id": "category-5",
+      "label": "蔚藍檔案"
+    },
+    {
+      "id": "category-6",
+      "label": "東方Project"
+    },
+    {
+      "id": "category-7",
+      "label": "Cosplay寫真"
+    },
+    {
+      "id": "category-8",
+      "label": "手作.道具"
+    },
+    {
+      "id": "category-9",
+      "label": "模型.DOLL"
+    },
+    {
+      "id": "category-10",
+      "label": "獸人"
+    },
+    {
+      "id": "category-11",
+      "label": "影視媒體"
+    },
+    {
+      "id": "category-12",
+      "label": "布袋戲&華語系作品總合衍生"
+    },
+    {
+      "id": "category-13",
+      "label": "學校漫研"
+    },
+    {
+      "id": "category-14",
+      "label": "其他"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "organizer-official",
+      "url": "https://www.f-2.com.tw/%e7%a4%be%e5%9c%98%e4%b8%bb%e9%a1%8c%e9%a1%9e%e5%88%a5/",
+      "retrievedAt": "2026-09-20T09:37:18.954Z"
+    }
+  ],
+  "provenance": {
+    "/categories/0/label": [
+      "official-source"
+    ],
+    "/categories/1/label": [
+      "official-source"
+    ],
+    "/categories/2/label": [
+      "official-source"
+    ],
+    "/categories/3/label": [
+      "official-source"
+    ],
+    "/categories/4/label": [
+      "official-source"
+    ],
+    "/categories/5/label": [
+      "official-source"
+    ],
+    "/categories/6/label": [
+      "official-source"
+    ],
+    "/categories/7/label": [
+      "official-source"
+    ],
+    "/categories/8/label": [
+      "official-source"
+    ],
+    "/categories/9/label": [
+      "official-source"
+    ],
+    "/categories/10/label": [
+      "official-source"
+    ],
+    "/categories/11/label": [
+      "official-source"
+    ],
+    "/categories/12/label": [
+      "official-source"
+    ],
+    "/categories/13/label": [
+      "official-source"
+    ]
+  }
+}

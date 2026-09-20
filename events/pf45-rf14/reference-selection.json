@@ -1,0 +1,28 @@
+{
+  "schema": "reference-selection/1",
+  "eventId": "pf45-rf14",
+  "organizers": [
+    {
+      "id": "organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45",
+      "path": "references/organizers/organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45.json"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-f9adfbd4-9954-4b5a-83fc-d69cf7fc20f6",
+    "organizerId": "organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45",
+    "revision": "1",
+    "path": "references/category-catalogs/organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45/catalog-f9adfbd4-9954-4b5a-83fc-d69cf7fc20f6/1.json"
+  },
+  "venues": [
+    {
+      "id": "taipei-expo-park-zhengyan-hall",
+      "path": "references/venues/taipei-expo-park-zhengyan-hall.json",
+      "spaces": [
+        {
+          "id": "zhengyan-exhibition-area",
+          "path": "references/venue-spaces/zhengyan-exhibition-area.json"
+        }
+      ]
+    }
+  ]
+}
