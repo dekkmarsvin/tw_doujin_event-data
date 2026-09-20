@@ -1,0 +1,129 @@
+{
+  "schema": "event-definition/3",
+  "id": "pf45-rf14",
+  "name": "PF45 x RF14",
+  "dateRangeLabel": "2026-11-07–2026-11-08",
+  "dataUpdatedAt": "2026-09-20T09:42:16.478Z",
+  "eventEndsAt": "2026-11-08T23:59:59+08:00",
+  "mapTemplate": "TAIWAN_GENERIC_V1",
+  "areaMode": "switchable",
+  "days": [
+    {
+      "id": "1",
+      "label": "第 1 日",
+      "dateLabel": "2026-11-07"
+    },
+    {
+      "id": "2",
+      "label": "第 2 日",
+      "dateLabel": "2026-11-08"
+    }
+  ],
+  "areas": [
+    {
+      "id": "A",
+      "label": "A",
+      "shortLabel": "A"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "shortLabel": "B"
+    },
+    {
+      "id": "C",
+      "label": "C",
+      "shortLabel": "C"
+    },
+    {
+      "id": "D",
+      "label": "D",
+      "shortLabel": "D"
+    },
+    {
+      "id": "M",
+      "label": "M",
+      "shortLabel": "M"
+    },
+    {
+      "id": "N",
+      "label": "N",
+      "shortLabel": "N"
+    },
+    {
+      "id": "O",
+      "label": "O",
+      "shortLabel": "O"
+    },
+    {
+      "id": "P",
+      "label": "P",
+      "shortLabel": "P"
+    },
+    {
+      "id": "Q",
+      "label": "Q",
+      "shortLabel": "Q"
+    },
+    {
+      "id": "R",
+      "label": "R",
+      "shortLabel": "R"
+    },
+    {
+      "id": "S",
+      "label": "S",
+      "shortLabel": "S"
+    },
+    {
+      "id": "T",
+      "label": "T",
+      "shortLabel": "T"
+    },
+    {
+      "id": "W",
+      "label": "W",
+      "shortLabel": "W"
+    }
+  ],
+  "organizerAssignments": [
+    {
+      "organizerId": "organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45",
+      "role": "lead"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-f9adfbd4-9954-4b5a-83fc-d69cf7fc20f6",
+    "organizerId": "organizer-a3f8140a-a946-4ec4-bcf7-321b62849b45",
+    "revision": "1"
+  },
+  "venueAssignments": [
+    {
+      "venueId": "taipei-expo-park-zhengyan-hall",
+      "venueSpaceId": "zhengyan-exhibition-area",
+      "areaIds": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "W"
+      ]
+    }
+  ],
+  "officialData": {
+    "adapter": "organizer-import/1",
+    "eventUrl": "https://www.f-2.com.tw/activitys/petit-fancy%e4%ba%9e%e6%b4%b2%e5%8b%95%e6%bc%ab%e5%89%b5%e4%bd%9c%e5%b1%95-45-x-reality-fantasy%e9%96%8b%e6%8b%93%e6%a8%a1%e5%9e%8b%e5%89%b5%e4%bd%9c%e7%a5%ad-14/",
+    "boothListUrls": {
+      "1": "https://www.f-2.com.tw/activitys/petit-fancy%e4%ba%9e%e6%b4%b2%e5%8b%95%e6%bc%ab%e5%89%b5%e4%bd%9c%e5%b1%95-45-x-reality-fantasy%e9%96%8b%e6%8b%93%e6%a8%a1%e5%9e%8b%e5%89%b5%e4%bd%9c%e7%a5%ad-14/",
+      "2": "https://www.f-2.com.tw/activitys/petit-fancy%e4%ba%9e%e6%b4%b2%e5%8b%95%e6%bc%ab%e5%89%b5%e4%bd%9c%e5%b1%95-45-x-reality-fantasy%e9%96%8b%e6%8b%93%e6%a8%a1%e5%9e%8b%e5%89%b5%e4%bd%9c%e7%a5%ad-14/"
+    }
+  }
+}
