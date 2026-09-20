@@ -1,5 +1,5 @@
 {
-  "schema": "circle-identity-groups/1",
+  "schema": "circle-identity-groups/2",
   "eventId": "pf45-rf14",
   "groups": [
     {
@@ -3964,5 +3964,6 @@
         "2:W26"
       ]
     }
-  ]
+  ],
+  "transitions": []
 }
