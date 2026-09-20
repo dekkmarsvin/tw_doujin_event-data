@@ -1,9 +1,9 @@
 {
   "eventId": "pf45-rf14",
   "revision": 1,
-  "sourceName": "map-contribution:50c6534d-2333-4923-aa20-dd19946dae00:r1",
+  "sourceName": "map-contribution:cc859b26-cee4-460d-8563-52a000d3679d:r2",
   "confidence": 1,
-  "updatedAt": "2026-09-20T09:42:16.478Z",
+  "updatedAt": "2026-09-20T14:38:56.224Z",
   "layout": {
     "version": 2,
     "template": "TAIWAN_GENERIC_V1",
@@ -5360,6 +5360,17 @@
           "y": 505.36168341146464,
           "width": 52.85207603173716,
           "height": 187.10481691410905
+        }
+      },
+      {
+        "id": "landmark-18",
+        "kind": "other",
+        "label": "PF45花博爭驗館",
+        "rect": {
+          "x": 82.78122953583335,
+          "y": 197.46567797926429,
+          "width": 527.012192602662,
+          "height": 217.74606574991833
         }
       }
     ]
