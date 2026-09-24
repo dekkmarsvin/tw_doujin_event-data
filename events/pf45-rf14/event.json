@@ -2,8 +2,12 @@
   "schema": "event-definition/3",
   "id": "pf45-rf14",
   "name": "PF45 x RF14",
+  "aliases": [
+    "Petit Fancy 45",
+    "Reality Fantasy 14"
+  ],
   "dateRangeLabel": "2026-11-07–2026-11-08",
-  "dataUpdatedAt": "2026-09-20T14:38:56.224Z",
+  "dataUpdatedAt": "2026-09-24T04:43:06.769Z",
   "eventEndsAt": "2026-11-08T23:59:59+08:00",
   "mapTemplate": "TAIWAN_GENERIC_V1",
   "areaMode": "switchable",
