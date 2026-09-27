@@ -1,9 +1,9 @@
 {
   "eventId": "ch-20",
   "revision": 1,
-  "sourceName": "map-contribution:7d953365-b5fb-4f0c-97e5-321c80685ba4:r1",
+  "sourceName": "map-contribution:dd1d54d1-332c-4c36-baf7-4b5970c8fddf:r2",
   "confidence": 1,
-  "updatedAt": "2026-09-24T04:48:05.146Z",
+  "updatedAt": "2026-09-27T23:44:24.849Z",
   "layout": {
     "version": 2,
     "template": "TAIWAN_GENERIC_V1",
@@ -2073,6 +2073,32 @@
           "width": 175.6358922568728,
           "height": 335.23320694468237
         }
+      }
+    ],
+    "servicePoints": [
+      {
+        "id": "service-1",
+        "kind": "toilet",
+        "x": 163.99659555247874,
+        "y": 984.4760520739468
+      },
+      {
+        "id": "service-2",
+        "kind": "toilet",
+        "x": 829.0963650715926,
+        "y": 983.3237433037903
+      },
+      {
+        "id": "service-3",
+        "kind": "information",
+        "x": 301.7425368094016,
+        "y": 191.12659576118975
+      },
+      {
+        "id": "service-4",
+        "kind": "cloakroom",
+        "x": 204.34056505808456,
+        "y": 161.74325619066934
       }
     ]
   }
