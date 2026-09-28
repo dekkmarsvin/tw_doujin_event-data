@@ -1,9 +1,9 @@
 {
   "eventId": "pf45-rf14",
   "revision": 1,
-  "sourceName": "map-contribution:c3598bbd-ddab-4d40-aa11-91dd38a554e7:r1",
+  "sourceName": "map-contribution:caa5ff7d-f438-4b32-94dc-f644e96881e9:r2",
   "confidence": 1,
-  "updatedAt": "2026-09-24T04:43:06.769Z",
+  "updatedAt": "2026-09-28T05:55:01.004Z",
   "layout": {
     "version": 2,
     "template": "TAIWAN_GENERIC_V1",
@@ -5375,7 +5375,7 @@
       },
       {
         "id": "entrance-2",
-        "kind": "entrance",
+        "kind": "both",
         "direction": "north",
         "x": 221.422253336783,
         "y": 1267.5017632907827,
@@ -5383,7 +5383,7 @@
       },
       {
         "id": "entrance-3",
-        "kind": "entrance",
+        "kind": "both",
         "direction": "north",
         "x": 1149.3344392530475,
         "y": 1267.5017632907827,
@@ -5526,7 +5526,7 @@
       {
         "id": "landmark-13",
         "kind": "other",
-        "label": "其他區域",
+        "label": "特區",
         "rect": {
           "x": 1341.1004000219996,
           "y": 813.1350038851714,

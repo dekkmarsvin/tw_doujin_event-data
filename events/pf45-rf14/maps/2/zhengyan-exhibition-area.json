@@ -1,9 +1,9 @@
 {
   "eventId": "pf45-rf14",
   "revision": 1,
-  "sourceName": "map-contribution:978fee3e-211c-4555-87e0-d6b58745b60c:r1",
+  "sourceName": "map-contribution:359d03bc-5d81-468d-aeab-64a8492c3188:r2",
   "confidence": 1,
-  "updatedAt": "2026-09-24T04:43:06.769Z",
+  "updatedAt": "2026-09-28T05:55:01.004Z",
   "layout": {
     "version": 2,
     "template": "TAIWAN_GENERIC_V1",
@@ -5159,7 +5159,7 @@
       },
       {
         "id": "entrance-2",
-        "kind": "entrance",
+        "kind": "both",
         "direction": "north",
         "x": 221.422253336783,
         "y": 1267.5017632907827,
@@ -5167,7 +5167,7 @@
       },
       {
         "id": "entrance-3",
-        "kind": "entrance",
+        "kind": "both",
         "direction": "north",
         "x": 1149.3344392530475,
         "y": 1267.5017632907827,
@@ -5310,7 +5310,7 @@
       {
         "id": "landmark-13",
         "kind": "other",
-        "label": "其他區域",
+        "label": "特區",
         "rect": {
           "x": 1341.1004000219996,
           "y": 813.1350038851714,
@@ -5354,7 +5354,7 @@
       {
         "id": "landmark-17",
         "kind": "other",
-        "label": "鋼普拉",
+        "label": "鋼普拉素組體驗",
         "rect": {
           "x": 1370.4084388378333,
           "y": 505.36168341146464,
