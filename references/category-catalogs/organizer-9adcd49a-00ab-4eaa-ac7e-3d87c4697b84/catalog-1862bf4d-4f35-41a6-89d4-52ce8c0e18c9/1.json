@@ -1,0 +1,32 @@
+{
+  "schema": "category-catalog/1",
+  "id": "catalog-1862bf4d-4f35-41a6-89d4-52ce8c0e18c9",
+  "organizerId": "organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84",
+  "revision": "1",
+  "categories": [
+    {
+      "id": "category-1",
+      "label": "有CP"
+    },
+    {
+      "id": "category-2",
+      "label": "無CP"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "organizer-official",
+      "url": "https://teamchaldea.carrd.co/#",
+      "retrievedAt": "2026-09-30T12:52:10.983Z"
+    }
+  ],
+  "provenance": {
+    "/categories/0/label": [
+      "official-source"
+    ],
+    "/categories/1/label": [
+      "official-source"
+    ]
+  }
+}

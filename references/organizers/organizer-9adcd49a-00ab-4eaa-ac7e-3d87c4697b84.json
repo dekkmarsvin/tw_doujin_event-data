@@ -1,0 +1,22 @@
+{
+  "schema": "organizer/1",
+  "id": "organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84",
+  "name": "FGO only 籌備小組",
+  "officialUrl": "https://www.plurk.com/teamChaldea_TW",
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "organizer-official",
+      "url": "https://www.plurk.com/teamChaldea_TW",
+      "retrievedAt": "2026-09-30T12:43:02.655Z"
+    }
+  ],
+  "provenance": {
+    "/name": [
+      "official-source"
+    ],
+    "/officialUrl": [
+      "official-source"
+    ]
+  }
+}

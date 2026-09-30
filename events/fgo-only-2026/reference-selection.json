@@ -1,0 +1,32 @@
+{
+  "schema": "reference-selection/1",
+  "eventId": "fgo-only-2026",
+  "organizers": [
+    {
+      "id": "organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84",
+      "path": "references/organizers/organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84.json"
+    },
+    {
+      "id": "organizer-d10dc870-2e2a-4f4a-b2e7-3899f860ce54",
+      "path": "references/organizers/organizer-d10dc870-2e2a-4f4a-b2e7-3899f860ce54.json"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-1862bf4d-4f35-41a6-89d4-52ce8c0e18c9",
+    "organizerId": "organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84",
+    "revision": "1",
+    "path": "references/category-catalogs/organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84/catalog-1862bf4d-4f35-41a6-89d4-52ce8c0e18c9/1.json"
+  },
+  "venues": [
+    {
+      "id": "venue-c2a522f0-e534-4a91-ba1d-b347c112e092",
+      "path": "references/venues/venue-c2a522f0-e534-4a91-ba1d-b347c112e092.json",
+      "spaces": [
+        {
+          "id": "venue-space-677b4283-d392-4b83-9d38-5aa81e2df511",
+          "path": "references/venue-spaces/venue-space-677b4283-d392-4b83-9d38-5aa81e2df511.json"
+        }
+      ]
+    }
+  ]
+}
