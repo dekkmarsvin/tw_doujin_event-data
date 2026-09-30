@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "days": [
+    {
+      "day": "1",
+      "url": "https://teamchaldea.carrd.co/#",
+      "booths": [
+        {
+          "codes": [
+            "A01"
+          ],
+          "name": "閱讀不孤獨",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A02"
+          ],
+          "name": "九穫個人",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A03"
+          ],
+          "name": "棉花歐姆蛋",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A04"
+          ],
+          "name": "喬喬君",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A05"
+          ],
+          "name": "迦勒底特供橘子果醬",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A06"
+          ],
+          "name": "卡多君的記事本",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A07"
+          ],
+          "name": "林北一個人打麻將,缺三,約嗎?",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A08"
+          ],
+          "name": "Nachtlied✦夜歌",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A09",
+            "A10"
+          ],
+          "name": "比起聖杯戰爭更喜歡你",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A11",
+            "A12"
+          ],
+          "name": "剩悲戰爭Plus",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A13",
+            "A14"
+          ],
+          "name": "海底撈月",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A15"
+          ],
+          "name": "大騙子會夢見小白蛾嗎",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "A16"
+          ],
+          "name": "泥棒貓與他的垃圾朋友",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B01"
+          ],
+          "name": "我玩fgo不是因為我有品味 而是因為 錢不能退",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B02"
+          ],
+          "name": "ॐ聖誕島假面遊印度ॐ",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B03"
+          ],
+          "name": "我沒有抽滿新選組我是不會幸福的",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B04"
+          ],
+          "name": "王廚專賣店",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B05"
+          ],
+          "name": "雨之書齋",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B06"
+          ],
+          "name": "阿清甜點舖(狐狸洞)",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B07"
+          ],
+          "name": "我伽總在哈哈哈",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B08"
+          ],
+          "name": "鎖鏈QP窮鬼",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B09"
+          ],
+          "name": "popcorn studio",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B10"
+          ],
+          "name": "大腦冠位檢定",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B11"
+          ],
+          "name": "炙烤企鵝",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B12"
+          ],
+          "name": "寢言空想",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B13"
+          ],
+          "name": "夢火難民底迦啦",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B14"
+          ],
+          "name": "ELLLLL",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "B15",
+            "B16"
+          ],
+          "name": "我真的芙辣",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C01"
+          ],
+          "name": "為王的榮光而喜悅",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C02"
+          ],
+          "name": "為綠髮吃草人而喜悅",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C03",
+            "C04"
+          ],
+          "name": "琳靜的兩色",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C05"
+          ],
+          "name": "綸子ぽい",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C06"
+          ],
+          "name": "迦勒底必須留下為我而留",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C07"
+          ],
+          "name": "Lonizing工坊",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C08"
+          ],
+          "name": "LYCORIS GARDEN",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C09"
+          ],
+          "name": "熊老大朱氏會社",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C10"
+          ],
+          "name": "公館彩券行兩千塊中一千萬",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C11",
+            "C12"
+          ],
+          "name": "混沌製造所",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C13",
+            "C14"
+          ],
+          "name": "捲款潛逃自立門戶優良員工",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C15"
+          ],
+          "name": "FGO好玩一直玩",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "C16"
+          ],
+          "name": "羽琉",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D01"
+          ],
+          "name": "SHIO SHIO",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D02"
+          ],
+          "name": "突襲黑糖珍珠",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D03"
+          ],
+          "name": "強化蕪肖",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D04"
+          ],
+          "name": "整個人生都被獅心王理查一世給毀了",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D05"
+          ],
+          "name": "白塔魔術工作室",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D06"
+          ],
+          "name": "朝霧箱庭",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D07"
+          ],
+          "name": "12世紀的英格蘭Only fans可以刷卡嗎",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D08"
+          ],
+          "name": "我推爺爺之想吃過期十年草莓蛋糕",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D09"
+          ],
+          "name": "稚稚丸",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D10"
+          ],
+          "name": "蹦槺超市(三箱店)",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D11",
+            "D12"
+          ],
+          "name": "鉛筆盒",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D13"
+          ],
+          "name": "楓糖蛋塔",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D14"
+          ],
+          "name": "LiuHan",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D15"
+          ],
+          "name": "不人氣",
+          "areaId": "ALL"
+        },
+        {
+          "codes": [
+            "D16"
+          ],
+          "name": "Co John",
+          "areaId": "ALL"
+        }
+      ]
+    }
+  ]
+}

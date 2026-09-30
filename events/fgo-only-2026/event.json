@@ -1,0 +1,63 @@
+{
+  "schema": "event-definition/3",
+  "id": "fgo-only-2026",
+  "name": "迦勒底出動!異聞空間潛入調查 ~FGO only 2026~",
+  "aliases": [
+    "FGO only"
+  ],
+  "dateRangeLabel": "2026-10-24",
+  "dataUpdatedAt": "2026-09-30T13:46:49.421Z",
+  "eventEndsAt": "2026-10-24T23:59:59+08:00",
+  "mapTemplate": "TAIWAN_GENERIC_V1",
+  "areaMode": "single",
+  "days": [
+    {
+      "id": "1",
+      "label": "第一天",
+      "dateLabel": "2026-10-24"
+    }
+  ],
+  "areas": [
+    {
+      "id": "ALL",
+      "label": "ALL",
+      "shortLabel": "ALL"
+    }
+  ],
+  "organizerAssignments": [
+    {
+      "organizerId": "organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84",
+      "role": "lead"
+    },
+    {
+      "organizerId": "organizer-d10dc870-2e2a-4f4a-b2e7-3899f860ce54",
+      "role": "co-organizer"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-1862bf4d-4f35-41a6-89d4-52ce8c0e18c9",
+    "organizerId": "organizer-9adcd49a-00ab-4eaa-ac7e-3d87c4697b84",
+    "revision": "1"
+  },
+  "venueAssignments": [
+    {
+      "venueId": "venue-c2a522f0-e534-4a91-ba1d-b347c112e092",
+      "venueSpaceId": "venue-space-677b4283-d392-4b83-9d38-5aa81e2df511",
+      "areaIds": [
+        "ALL"
+      ]
+    }
+  ],
+  "officialData": {
+    "adapter": "organizer-import/1",
+    "eventUrl": "https://teamchaldea.carrd.co/#",
+    "boothListUrls": {
+      "1": "https://teamchaldea.carrd.co/#"
+    }
+  },
+  "image": {
+    "url": "https://media.kotoban.top/event-images/96a71f848458bcde15e5bae6fe5a208b7adacf7c5838c88f913df11ff1a18cc5.jpg",
+    "width": 2551,
+    "height": 2551
+  }
+}
