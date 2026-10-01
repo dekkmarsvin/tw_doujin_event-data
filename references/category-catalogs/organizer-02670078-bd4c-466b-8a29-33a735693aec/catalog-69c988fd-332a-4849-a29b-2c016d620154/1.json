@@ -1,0 +1,32 @@
+{
+  "schema": "category-catalog/1",
+  "id": "catalog-69c988fd-332a-4849-a29b-2c016d620154",
+  "organizerId": "organizer-02670078-bd4c-466b-8a29-33a735693aec",
+  "revision": "1",
+  "categories": [
+    {
+      "id": "category-1",
+      "label": "特區"
+    },
+    {
+      "id": "category-2",
+      "label": "終末地區"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "organizer-official",
+      "url": "https://sites.google.com/view/arktw-only/%E7%A4%BE%E5%9C%98%E9%85%8D%E7%BD%AE%E5%9C%96?authuser=0",
+      "retrievedAt": "2026-09-30T15:34:29.551Z"
+    }
+  ],
+  "provenance": {
+    "/categories/0/label": [
+      "official-source"
+    ],
+    "/categories/1/label": [
+      "official-source"
+    ]
+  }
+}

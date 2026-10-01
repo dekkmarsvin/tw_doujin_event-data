@@ -1,0 +1,19 @@
+{
+  "schema": "venue-space/1",
+  "id": "taipei-hakka-cultural-center-5f-exhibition-hall",
+  "venueId": "taipei-hakka-cultural-center",
+  "name": "5F 展場",
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "venue-official",
+      "url": "https://ssl.thcp.org.tw/rental",
+      "retrievedAt": "2026-09-14T10:31:38.000Z"
+    }
+  ],
+  "provenance": {
+    "/name": [
+      "official-source"
+    ]
+  }
+}

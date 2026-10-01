@@ -1,0 +1,28 @@
+{
+  "schema": "reference-selection/1",
+  "eventId": "arktw-only-2026",
+  "organizers": [
+    {
+      "id": "organizer-02670078-bd4c-466b-8a29-33a735693aec",
+      "path": "references/organizers/organizer-02670078-bd4c-466b-8a29-33a735693aec.json"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-69c988fd-332a-4849-a29b-2c016d620154",
+    "organizerId": "organizer-02670078-bd4c-466b-8a29-33a735693aec",
+    "revision": "1",
+    "path": "references/category-catalogs/organizer-02670078-bd4c-466b-8a29-33a735693aec/catalog-69c988fd-332a-4849-a29b-2c016d620154/1.json"
+  },
+  "venues": [
+    {
+      "id": "taipei-hakka-cultural-center",
+      "path": "references/venues/taipei-hakka-cultural-center.json",
+      "spaces": [
+        {
+          "id": "taipei-hakka-cultural-center-5f-exhibition-hall",
+          "path": "references/venue-spaces/taipei-hakka-cultural-center-5f-exhibition-hall.json"
+        }
+      ]
+    }
+  ]
+}

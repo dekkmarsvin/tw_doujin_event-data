@@ -1,0 +1,32 @@
+{
+  "schema": "venue/1",
+  "id": "taipei-hakka-cultural-center",
+  "name": "客家文化中心",
+  "officialUrl": "https://ssl.thcp.org.tw/rental",
+  "address": "100臺北市中正區林興里汀州路三段2號",
+  "sources": [
+    {
+      "id": "official-source",
+      "kind": "venue-official",
+      "url": "https://ssl.thcp.org.tw/rental",
+      "retrievedAt": "2026-09-14T10:31:38.000Z"
+    },
+    {
+      "id": "address-source",
+      "kind": "venue-official",
+      "url": "https://ssl.thcp.org.tw/rental",
+      "retrievedAt": "2026-09-28T10:30:15.413Z"
+    }
+  ],
+  "provenance": {
+    "/name": [
+      "official-source"
+    ],
+    "/officialUrl": [
+      "official-source"
+    ],
+    "/address": [
+      "address-source"
+    ]
+  }
+}
