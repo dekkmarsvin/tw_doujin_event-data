@@ -1,0 +1,599 @@
+{
+  "schemaVersion": 1,
+  "days": [
+    {
+      "day": "1",
+      "url": "https://sites.google.com/view/arktw-only/%E9%A6%96%E9%A0%81?authuser=0",
+      "booths": [
+        {
+          "codes": [
+            "A1"
+          ],
+          "name": "邪惡明太子",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "A2"
+          ],
+          "name": "M3流動醫療站",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "A3"
+          ],
+          "name": "邏大師快用你無敵的女妖之吻想想辦法啊?!",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "A4"
+          ],
+          "name": "涼拌天窗",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "A5"
+          ],
+          "name": "敘拉古經典披薩店",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "A6"
+          ],
+          "name": "棘棘復極極",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "A7"
+          ],
+          "name": "跑跑鼬",
+          "areaId": "area-4-1"
+        },
+        {
+          "codes": [
+            "B1"
+          ],
+          "name": "天外來客",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B2"
+          ],
+          "name": "蜂蜜熊貓罐罐",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B3"
+          ],
+          "name": "薩盧佐酒業農產品展覽",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B4"
+          ],
+          "name": "薩盧佐酒業農產品展覽",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B5"
+          ],
+          "name": "大腦空談論",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B6"
+          ],
+          "name": "鷹角網路還我推",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B7"
+          ],
+          "name": "搶疊層的是給",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B8"
+          ],
+          "name": "兜不住的是給",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B9"
+          ],
+          "name": "⛔老↗鼠↘會↑🐀",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B10"
+          ],
+          "name": "極上・海嗣御膳切片拼盤",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B11"
+          ],
+          "name": "壞女人能有什麼壞心思",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B12"
+          ],
+          "name": "先來",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B13"
+          ],
+          "name": "後到",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B14"
+          ],
+          "name": "豪膽船長傳奇三部曲簽名報到處",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B15"
+          ],
+          "name": "綺良綺良綺良綺良綺良綺良",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B16"
+          ],
+          "name": "兩麵包夾吐司",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B17"
+          ],
+          "name": "七等星",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B18"
+          ],
+          "name": "消波ブッロク社",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B19"
+          ],
+          "name": "消波ブッロク社",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "B20"
+          ],
+          "name": "琶音調弦",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C1"
+          ],
+          "name": "不要碰我的狗",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C2"
+          ],
+          "name": "犬蜀Ray",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C3"
+          ],
+          "name": "Hushi",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C4"
+          ],
+          "name": "蒼玥",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C5"
+          ],
+          "name": "博士還不能休息",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C6"
+          ],
+          "name": "酒鬼龍泡泡",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C7"
+          ],
+          "name": "若隱若現 Insider Out(此男今天生日快樂)",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C8"
+          ],
+          "name": "愛上凱爾希水狗這輩子完蛋了",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C9"
+          ],
+          "name": "不要恐慌",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C10"
+          ],
+          "name": "構構構出發嘍",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C11"
+          ],
+          "name": "關東煮餐車",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C12"
+          ],
+          "name": "津骨酸痛",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C13"
+          ],
+          "name": "青雨閣",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C14"
+          ],
+          "name": "熊熊喜歡熊熊",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C15"
+          ],
+          "name": "吉吉吉良",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C16"
+          ],
+          "name": "符合舟禮",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C17"
+          ],
+          "name": "賺學分的大學生",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "C18"
+          ],
+          "name": "歲到中午起床踹二哥屁股",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D1"
+          ],
+          "name": "明!日!方!舟!!!",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D2"
+          ],
+          "name": "石棺返祖膠囊旅館",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D3"
+          ],
+          "name": "我刷不出9炎國",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D4"
+          ],
+          "name": "我刷不出9炎國",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D5"
+          ],
+          "name": "Skade男團",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D6"
+          ],
+          "name": "FOODpenguin",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D7"
+          ],
+          "name": "我把把都帶聖鈴初雪",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D8"
+          ],
+          "name": "詭意行商",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D9"
+          ],
+          "name": "所以我現在在支援精幹博談戀愛",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D10"
+          ],
+          "name": "羅德島南極辦事處",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D11"
+          ],
+          "name": "辦公室圓凳速滑競賽會場(已嚴肅申報)",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D12"
+          ],
+          "name": "並非菲林",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D13"
+          ],
+          "name": "一發十連直接滿潛",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D14"
+          ],
+          "name": "總匯披薩改賣粥",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D15"
+          ],
+          "name": "急集棘極",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D16"
+          ],
+          "name": "芋圓鳳梨木耳粉粿挫冰",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D17"
+          ],
+          "name": "咪兵",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "D18"
+          ],
+          "name": "中不中",
+          "areaId": "area-4-2"
+        },
+        {
+          "codes": [
+            "E1"
+          ],
+          "name": "幽塗屋",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E2"
+          ],
+          "name": "十之八九是方舟",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E3"
+          ],
+          "name": "古比",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E4"
+          ],
+          "name": "電線距離 79.9 | 80.0m",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E5"
+          ],
+          "name": "電線距離 80.1 | 80.0m",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E6"
+          ],
+          "name": "小雞塊嗶嗶",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E7"
+          ],
+          "name": "烏鴉喝水被嗆到",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "E8"
+          ],
+          "name": "坎諾特精選",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F1"
+          ],
+          "name": "深度潛水患者",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F2"
+          ],
+          "name": "小狗咪出沒注意",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F3"
+          ],
+          "name": "貝四屋",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F4"
+          ],
+          "name": "蘇芳小天地",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F5"
+          ],
+          "name": "本攤位收入將全數投入製作灰喉周邊",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F6"
+          ],
+          "name": "企鵝物流食堂",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F7"
+          ],
+          "name": "超級泰拉徵兵中心",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "F8"
+          ],
+          "name": "泡沫的禮居",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "G1"
+          ],
+          "name": "小東西道具製造所",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "G2"
+          ],
+          "name": "熊小七",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "G3"
+          ],
+          "name": "坎特諾商城",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "G4"
+          ],
+          "name": "Ema箱",
+          "areaId": "area-4-3"
+        },
+        {
+          "codes": [
+            "G5"
+          ],
+          "name": "夕陽廳女鬼",
+          "areaId": "area-4-3"
+        }
+      ]
+    }
+  ]
+}

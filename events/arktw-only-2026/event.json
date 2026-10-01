@@ -1,0 +1,71 @@
+{
+  "schema": "event-definition/3",
+  "id": "arktw-only-2026",
+  "name": "明日方舟only 零點誓約",
+  "aliases": [
+    "方舟only"
+  ],
+  "dateRangeLabel": "2026-11-14",
+  "dataUpdatedAt": "2026-10-01T06:44:16.787Z",
+  "eventEndsAt": "2026-11-14T23:59:59+08:00",
+  "mapTemplate": "TAIWAN_GENERIC_V1",
+  "areaMode": "switchable",
+  "days": [
+    {
+      "id": "1",
+      "label": "第一天",
+      "dateLabel": "2026-11-14"
+    }
+  ],
+  "areas": [
+    {
+      "id": "area-4-1",
+      "label": "R18區",
+      "shortLabel": "area-4-1"
+    },
+    {
+      "id": "area-4-2",
+      "label": "一般區域",
+      "shortLabel": "area-4-2"
+    },
+    {
+      "id": "area-4-3",
+      "label": "終末地區",
+      "shortLabel": "area-4-3"
+    }
+  ],
+  "organizerAssignments": [
+    {
+      "organizerId": "organizer-02670078-bd4c-466b-8a29-33a735693aec",
+      "role": "lead"
+    }
+  ],
+  "categoryCatalog": {
+    "id": "catalog-69c988fd-332a-4849-a29b-2c016d620154",
+    "organizerId": "organizer-02670078-bd4c-466b-8a29-33a735693aec",
+    "revision": "1"
+  },
+  "venueAssignments": [
+    {
+      "venueId": "taipei-hakka-cultural-center",
+      "venueSpaceId": "taipei-hakka-cultural-center-5f-exhibition-hall",
+      "areaIds": [
+        "area-4-1",
+        "area-4-2",
+        "area-4-3"
+      ]
+    }
+  ],
+  "officialData": {
+    "adapter": "organizer-import/1",
+    "eventUrl": "https://sites.google.com/view/arktw-only/%E9%A6%96%E9%A0%81?authuser=0",
+    "boothListUrls": {
+      "1": "https://sites.google.com/view/arktw-only/%E9%A6%96%E9%A0%81?authuser=0"
+    }
+  },
+  "image": {
+    "url": "https://media.kotoban.top/event-images/a048ceeaac5c7776ceee8613a81ed98e1ce543373d2ac3fa9410ef7867f6c4ef.jpg",
+    "width": 1280,
+    "height": 651
+  }
+}
