@@ -1,5 +1,5 @@
 {
-  "schema": "circle-identity-groups/1",
+  "schema": "circle-identity-groups/2",
   "eventId": "arktw-only-2026",
   "groups": [
     {
@@ -422,5 +422,6 @@
         "1:G5"
       ]
     }
-  ]
+  ],
+  "transitions": []
 }
