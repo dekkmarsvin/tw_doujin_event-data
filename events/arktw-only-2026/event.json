@@ -3,10 +3,12 @@
   "id": "arktw-only-2026",
   "name": "明日方舟only 零點誓約",
   "aliases": [
-    "方舟only"
+    "方舟only",
+    "台灣方舟only",
+    "粥翁"
   ],
   "dateRangeLabel": "2026-11-14",
-  "dataUpdatedAt": "2026-10-01T06:44:16.787Z",
+  "dataUpdatedAt": "2026-10-04T01:12:21.318Z",
   "eventEndsAt": "2026-11-14T23:59:59+08:00",
   "mapTemplate": "TAIWAN_GENERIC_V1",
   "areaMode": "switchable",
